@@ -49,7 +49,7 @@ eigenlayer-restaking-api/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/eigenlayer-restaking-api.git
+git clone https://github.com/Madhav-T/ZERU_Assignment_Eigenlayer
 cd eigenlayer-restaking-api
 
 
